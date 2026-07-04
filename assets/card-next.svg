@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <style>
+    .blink{animation:bl 1.1s steps(1) infinite}
+    @keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+  </style>
+  <rect x="1" y="1" width="598" height="188" rx="14" fill="#0D1117" stroke="#21262D"/>
+  <rect x="0" y="30" width="5" height="130" rx="2.5" fill="#8B98A9"/>
+  <text x="80" y="106" text-anchor="middle" fill="#8B98A9" font-size="46" font-family="ui-monospace, Menlo, Consolas, monospace" class="blink">▌</text>
+  <text x="152" y="58" fill="#F0F6FC" font-size="22" font-weight="700">The next real thing</text>
+  <text x="362" y="58" fill="#8B98A9" font-size="22" font-weight="700" class="blink">▌</text>
+  <text x="576" y="42" text-anchor="end" fill="#6B7280" font-size="11" font-family="ui-monospace, Menlo, Consolas, monospace" letter-spacing="1">● SCANNING</text>
+  <g fill="#8B98A9" font-size="14.5">
+    <text x="152" y="90">There's always something in real life waiting to</text>
+    <text x="152" y="112">become software. The cursor's ready.</text>
+  </g>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#8B98A9">
+    <rect x="152" y="130" width="140" height="26" rx="13" fill="none" stroke="#21262D"/>
+    <text x="222" y="147" text-anchor="middle">status: watching</text>
+  </g>
+</svg>

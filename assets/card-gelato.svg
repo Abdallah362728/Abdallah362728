@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="190" viewBox="0 0 600 190" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <rect x="1" y="1" width="598" height="188" rx="14" fill="#0F1A2A" stroke="#26384F"/>
+  <rect x="0" y="30" width="5" height="130" rx="2.5" fill="#8AB6E8"/>
+  <g transform="translate(80,92) scale(1.7)">
+    <path d="M-9 -1 L0 19 L9 -1 Z" fill="none" stroke="#8AB6E8" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="-7" cy="-8" r="7.5" fill="#8FBF6E"/>
+    <circle cx="7" cy="-8" r="7.5" fill="#F4A6C0"/>
+    <circle cx="0" cy="-17" r="7.5" fill="#8AB6E8"/>
+  </g>
+  <text x="152" y="58" fill="#F0F6FC" font-size="22" font-weight="700">Gelato Freezer Manager</text>
+  <text x="576" y="42" text-anchor="end" fill="#6B7C90" font-size="11" font-family="ui-monospace, Menlo, Consolas, monospace" letter-spacing="1">● PRIVATE</text>
+  <g fill="#8B98A9" font-size="14.5">
+    <text x="152" y="90">Live inventory board for a real walk-in freezer —</text>
+    <text x="152" y="112">484 positions, 24 flavors, drag &amp; drop.</text>
+  </g>
+  <g font-family="ui-monospace, Menlo, Consolas, monospace" font-size="12" fill="#8B98A9">
+    <rect x="152" y="130" width="95" height="26" rx="13" fill="none" stroke="#26384F"/>
+    <text x="199" y="147" text-anchor="middle">Next.js 16</text>
+    <rect x="257" y="130" width="80" height="26" rx="13" fill="none" stroke="#26384F"/>
+    <text x="297" y="147" text-anchor="middle">React 19</text>
+    <rect x="347" y="130" width="75" height="26" rx="13" fill="none" stroke="#26384F"/>
+    <text x="384" y="147" text-anchor="middle">Zustand</text>
+  </g>
+  <text x="574" y="168" text-anchor="end" fill="#8AB6E8" font-size="18">↗</text>
+</svg>
