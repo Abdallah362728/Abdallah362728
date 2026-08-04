@@ -62,5 +62,5 @@ I like taking messy, real-world things — a car's stack of fuel receipts, a gel
 ---
 
 <div align="center">
-  <sub>⚡ Everything on this page is hand-drawn SVG — no generators. The cursor in the last card is still blinking for the next idea.</sub>
+  <sub>⚡ The cursor in the last card is still blinking for the next idea.</sub>
 </div>
